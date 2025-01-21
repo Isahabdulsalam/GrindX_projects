@@ -7,4 +7,5 @@ def odd_or_even(number):
         print(f'{number} is odd')
 
 
-odd_or_even(5)
+num = int(input("Enter number: "))
+odd_or_even(num)
