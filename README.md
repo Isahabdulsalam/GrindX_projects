@@ -19,7 +19,7 @@ If you have questions, suggestions, or need clarification, feel free to reach ou
 
 - **Name**: Isah Abdulsalam
 - **Email**: [Isahabdulsalam416@gmail.com]
-- **GitHub Profile**: [https://www.linkedin.com/in/isahabdulsalam]
+- **GitHub Profile**: [https://www.github.com/isahabdulsalam]
 
 ---
 
